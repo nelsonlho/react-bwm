@@ -1,4 +1,4 @@
-* {
+:root {
   --main-color: #61dafb;
   --main-black-color: #28232a;
   --main-white-color: #ededed;
@@ -12,4 +12,3 @@ body {
   font-family: sans-serif;
   color: var(--main-color);
 }
-

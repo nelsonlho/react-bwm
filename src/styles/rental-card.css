@@ -1,0 +1,29 @@
+.bwm-card {
+    border: none;
+    width: 250px;
+}
+
+.card-subtitle {
+    margin-top: 10px;
+    font-weight: 500;
+    font-size: 12px;
+    text-transform: uppercase;
+    color: #16861a;
+}
+
+.card-title {
+    font-size: 19px;
+    margin: 3px 0;
+}
+
+.card-text {
+    font-size: 14px;
+    font-weight: 300;
+    color: #7e7e7e;
+    margin-bottom: 0;
+}
+
+.card-block {
+    height: 100%;
+    padding: 10px;
+}

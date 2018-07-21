@@ -1,0 +1,38 @@
+.navbar {
+    padding: 20px;
+    margin-bottom: 40px;
+    background-color: var(--main-black-color);
+}
+
+.bwm-search {
+    height: 50px;
+    width: 300px;
+}
+
+.navbar-brand {
+    margin-right: 30px;
+    font-size: 27px;
+    letter-spacing: 1px;
+    color: var(--main-color);
+    font-weight: 500;
+}
+
+.nav-item {
+    font-size: 14px;
+}
+
+.btn-bwm-search {
+    border-color: var(--main-color);
+    color: var(--main-color);
+}
+
+.nav-item {
+    color: var(--main-white-color);
+}
+
+/* &:hover, &:focus, &:active {
+    background-color: transparent !important;
+    border-color: $main-color !important;
+    color: $main-color !important;
+    box-shadow: none;
+} */
